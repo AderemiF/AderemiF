@@ -1,4 +1,5 @@
 ### Hi there 👋, I am Aderemi
+![Aderemi](https://github.com/AderemiF/AderemiF/blob/main/Aderemi_net_9746.jpg "Aderemi")
 #### I am an Artificial Intelligence enthusiast
 I am currently studying AI for Data Science at Strive School
 
