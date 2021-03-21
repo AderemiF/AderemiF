@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Aderemi
+### Hi there 👋, I am Aderemi
 #### I am an Artificial Intelligence enthusiast
 ![I am an Artificial Intelligence enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
