@@ -1,6 +1,7 @@
-### Hi there 👋 I am Aderemi
+### Hi there 👋 
+### I am Aderemi
 #### I am an Artificial Intelligence and data enthusiast 
-I am currently studying AI for Data Science at Strive School to turn my passion for data and AI into something great
+### I am currently studying AI for Data Science at Strive School to turn my passion for data and AI into something great
 
 ---
 
