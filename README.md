@@ -1,4 +1,4 @@
-### Hi there 👋, I am Aderemi
+### Hi there 👋 I am Aderemi
 ![Aderemi](https://github.com/AderemiF/AderemiF/blob/main/Aderemi_net_9760.jpg "Aderemi")
 
 #### I am an Artificial Intelligence enthusiast
