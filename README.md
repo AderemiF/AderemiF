@@ -13,7 +13,7 @@
 ---
 
 ## Awards 🏆
-- [Medhack-2021](https://devpost.com/software/red-detector)
+- [Medhack 2021 runner-up](https://devpost.com/software/red-detector)
 
 ---
 
