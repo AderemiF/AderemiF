@@ -18,8 +18,8 @@
 ---
 
 ## Currently... 🚧
-- 🔭 I am studying the application of AI to Data Science 
-- 🌱 I am learning Machine Learning / Deep Learning / Computer vision / NLP 
+- 🔭  I am studying the application of AI to Data Science 
+- 🌱  I am learning Machine Learning / Deep Learning / Computer vision / NLP 
 
 ---
 
