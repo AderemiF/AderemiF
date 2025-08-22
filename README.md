@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### I am Aderemi
 ### I am an Artificial Intelligence and data enthusiast 
-### I have applied Machine Learning to solve a couple of real life problems
+### I have applied Machine Learning and LLMs to solve a couple of real life problems
 ### Some of these projects can be found in dedicated repositories
 
 ---
